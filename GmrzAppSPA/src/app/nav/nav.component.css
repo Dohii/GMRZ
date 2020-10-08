@@ -1,0 +1,9 @@
+.dropdown-toggle, .dropdown-item {
+  cursor: pointer;
+}
+.user-nav-img{
+  width: auto;
+  height: 50px;
+  border-radius: 100px;
+  margin-right: 20px;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Apex Legends",
+    "Released": "2019-01-10",
+    "Description": "Dolore eu sunt sint quis. Enim pariatur non labore esse ipsum anim consectetur labore fugiat velit occaecat sunt. Aute commodo et cillum nisi consequat culpa duis culpa consectetur in. Proident et velit non anim cillum commodo est enim sint.\r\n",
+    "Photos": [
+      {
+        "url": "https://www.mobygames.com/images/covers/l/538006-apex-legends-xbox-one-front-cover.jpg",
+        "isMain": true,
+        "description": "Est dolore ipsum nisi deserunt ullamco dolor in consequat eiusmod culpa cillum excepteur."
+      }
+    ]
+  },
+  {
+    "Name": "Need For Speed Heat",
+    "Released": "2019-01-10",
+    "Description": "Dolore eu sunt sint quis. Enim pariatur non labore esse ipsum anim consectetur labore fugiat velit occaecat sunt. Aute commodo et cillum nisi consequat culpa duis culpa consectetur in. Proident et velit non anim cillum commodo est enim sint.\r\n",
+    "Photos": [
+      {
+        "url": "https://www.mobygames.com/images/covers/l/605655-nfs-heat-xbox-one-front-cover.png",
+        "isMain": true,
+        "description": "Est dolore ipsum nisi deserunt ullamco dolor in consequat eiusmod culpa cillum excepteur."
+      }
+    ]
+  },
+  {
+    "Name": "World of Warcraft",
+    "Released": "2019-01-10",
+    "Description": "Dolore eu sunt sint quis. Enim pariatur non labore esse ipsum anim consectetur labore fugiat velit occaecat sunt. Aute commodo et cillum nisi consequat culpa duis culpa consectetur in. Proident et velit non anim cillum commodo est enim sint.\r\n",
+    "Photos": [
+      {
+        "url": "https://i.redd.it/9bx4tzvxr5w31.png",
+        "isMain": true,
+        "description": "Est dolore ipsum nisi deserunt ullamco dolor in consequat eiusmod culpa cillum excepteur."
+      }
+    ]
+  },
+  {
+    "Name": "Call of Duty Black Ops Cold War",
+    "Released": "2019-01-10",
+    "Description": "Dolore eu sunt sint quis. Enim pariatur non labore esse ipsum anim consectetur labore fugiat velit occaecat sunt. Aute commodo et cillum nisi consequat culpa duis culpa consectetur in. Proident et velit non anim cillum commodo est enim sint.\r\n",
+    "Photos": [
+      {
+        "url": "https://vulcan.dl.playstation.net/ap/rnd/202008/1820/AAkORmoNSh8uwydtItovIFV6.png",
+        "isMain": true,
+        "description": "Est dolore ipsum nisi deserunt ullamco dolor in consequat eiusmod culpa cillum excepteur."
+      }
+    ]
+  }
+]
