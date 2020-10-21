@@ -4,7 +4,7 @@ import { JwtHelperService } from '@auth0/angular-jwt';
 import { map } from 'rxjs/operators';
 import { environment } from 'src/environments/environment';
 import { User } from '../_models/user';
-import {BehaviorSubject} from 'rxjs';
+import { BehaviorSubject } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
@@ -13,13 +13,13 @@ export class AuthService {
   baseUrl = environment.apiUrl + 'auth/';
   jwtHelper = new JwtHelperService();
   decodedToken: any;
-  currentUser:User;
-  photoUrl=new BehaviorSubject<string>('../../assets/user.png');
+  currentUser: User;
+  photoUrl = new BehaviorSubject<string>('../../assets/user.png');
   currentPhotoUrl = this.photoUrl.asObservable();
 
   constructor(private http: HttpClient) {}
 
-  changePlayerPhoto(photoUrl:string){
+  changePlayerPhoto(photoUrl: string) {
     this.photoUrl.next(photoUrl);
   }
 
@@ -29,17 +29,17 @@ export class AuthService {
         const user = respone;
         if (user) {
           localStorage.setItem('token', user.token);
-          localStorage.setItem('user',JSON.stringify(user.user));
+          localStorage.setItem('user', JSON.stringify(user.user));
           this.decodedToken = this.jwtHelper.decodeToken(user.token);
-          this.currentUser =user.user;
+          this.currentUser = user.user;
           this.changePlayerPhoto(this.currentUser.photoUrl);
         }
       })
     );
   }
 
-  register(model: any) {
-    return this.http.post(this.baseUrl + 'register', model);
+  register(user: User) {
+    return this.http.post(this.baseUrl + 'register', user);
   }
 
   loggedIn() {

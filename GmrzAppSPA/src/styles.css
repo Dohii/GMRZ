@@ -2,4 +2,5 @@
 @import "../node_modules/font-awesome/css/font-awesome.min.css";
 @import "../node_modules/alertifyjs/build/css/alertify.min.css";
 @import "../node_modules/alertifyjs/build/css/themes/bootstrap.css";
-@import"../src/assets/css/tabs.css";
+@import "../src/assets/css/tabs.css";
+@import "../node_modules/ngx-bootstrap/datepicker/bs-datepicker.css";
