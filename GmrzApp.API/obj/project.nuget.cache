@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "trJ4dgBhL3al5zWIM/3JeQd4M0gCKsB+SeleaG7ypnbJZm7GU5lRB6qbohTY6M1sF5GVvYflUBXBY3ThRn66cw==",
+  "dgSpecHash": "Nw6u8qkFSCmuP7Dqxn4ViBqFGs2uxu7SPpOM712TeAU5JSd4Q2nGhXN0QFttErebGs3nu+f1HaaYhrlgwRoIow==",
   "success": true,
-  "projectFilePath": "H:\\reference\\WEB\\Lično\\net core angular test\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj",
+  "projectFilePath": "H:\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hido\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Hido\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

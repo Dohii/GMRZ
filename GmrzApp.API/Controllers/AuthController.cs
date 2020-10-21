@@ -40,14 +40,14 @@ namespace GmrzApp.API.Controllers
             if (await _repo.UserExists(userForRegisterDto.Username))
                 return BadRequest("Username alredy exists");
 
-            var userToCreate = new User
-            {
-                Username = userForRegisterDto.Username
-            };
+            var userToCreate = _mapper.Map<User>(userForRegisterDto);
 
             var createdUser = await _repo.Register(userToCreate, userForRegisterDto.Password);
 
-            return StatusCode(201);
+            var userToReturn = _mapper.Map<UserForDetailDto>(createdUser);
+
+            return CreatedAtRoute("GetUser",new {controller = "Users",Id = createdUser.Id},userToReturn);
+            //return StatusCode(201);
         }
 
         //Login metoda gdje uzimamo dto od user i pw gdledamo da li postoji u bazi user i putem Login metode

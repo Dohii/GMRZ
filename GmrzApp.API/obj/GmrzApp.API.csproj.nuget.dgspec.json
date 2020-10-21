@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\reference\\WEB\\Lično\\net core angular test\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj": {}
+    "H:\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj": {}
   },
   "projects": {
-    "H:\\reference\\WEB\\Lično\\net core angular test\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj": {
+    "H:\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\reference\\WEB\\Lično\\net core angular test\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj",
+        "projectUniqueName": "H:\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj",
         "projectName": "GmrzApp.API",
-        "projectPath": "H:\\reference\\WEB\\Lično\\net core angular test\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj",
+        "projectPath": "H:\\GmrzApp\\GmrzApp.API\\GmrzApp.API.csproj",
         "packagesPath": "C:\\Users\\Hido\\.nuget\\packages\\",
-        "outputPath": "H:\\reference\\WEB\\Lično\\net core angular test\\GmrzApp\\GmrzApp.API\\obj\\",
+        "outputPath": "H:\\GmrzApp\\GmrzApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

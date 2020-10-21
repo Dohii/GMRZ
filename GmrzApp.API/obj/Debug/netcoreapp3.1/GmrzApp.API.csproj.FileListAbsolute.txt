@@ -1,45 +1,38 @@
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\GameSeedData.json
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.exe
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.deps.json
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.runtimeconfig.json
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.runtimeconfig.dev.json
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.pdb
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csprojAssemblyReference.cache
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfoInputs.cache
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfo.cs
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CoreCompileInputs.cache
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.MvcApplicationPartsAssemblyInfo.cache
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.RazorTargetAssemblyInfo.cache
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.Manifest.cache
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.xml
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.pdb
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.genruntimeconfig.cache
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CopyComplete
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
@@ -47,15 +40,23 @@ H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netc
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -68,24 +69,278 @@ H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netc
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\GameSeedData.json
-H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csprojAssemblyReference.cache
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfoInputs.cache
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfo.cs
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CoreCompileInputs.cache
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.MvcApplicationPartsAssemblyInfo.cache
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.RazorTargetAssemblyInfo.cache
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CopyComplete
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.Manifest.cache
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.xml
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.dll
+H:\reference\WEB\Lično\net core angular test\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.pdb
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\GameSeedData.json
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.exe
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\reference\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csprojAssemblyReference.cache
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfoInputs.cache
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfo.cs
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CoreCompileInputs.cache
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.MvcApplicationPartsAssemblyInfo.cache
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.RazorTargetAssemblyInfo.cache
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CopyComplete
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.Manifest.cache
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.xml
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.dll
+H:\reference\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.pdb
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\GameSeedData.json
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.exe
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csprojAssemblyReference.cache
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfoInputs.cache
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfo.cs
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CoreCompileInputs.cache
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.MvcApplicationPartsAssemblyInfo.cache
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.RazorTargetAssemblyInfo.cache
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CopyComplete
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.Manifest.cache
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.xml
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.dll
+H:\reference\New folder\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.pdb
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\GameSeedData.json
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.exe
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.deps.json
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.runtimeconfig.json
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.runtimeconfig.dev.json
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\GmrzApp.API.pdb
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\GmrzApp\GmrzApp.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csprojAssemblyReference.cache
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfoInputs.cache
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.AssemblyInfo.cs
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CoreCompileInputs.cache
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.MvcApplicationPartsAssemblyInfo.cache
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.RazorTargetAssemblyInfo.cache
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.csproj.CopyComplete
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.Manifest.cache
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\staticwebassets\GmrzApp.API.StaticWebAssets.xml
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.dll
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.pdb
+H:\GmrzApp\GmrzApp.API\obj\Debug\netcoreapp3.1\GmrzApp.API.genruntimeconfig.cache
